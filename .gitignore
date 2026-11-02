@@ -1,0 +1,11 @@
+# Excel and Power BI temporary files
+~$*
+*.tmp
+
+# Working files that are not part of the release
+Breakfast_at_the_Frat_Cleaned.xlsx
+Project3.pbix
+Luyen_tap_*
+*Handoff*/
+Mockups*/
+FINAL_RELEASE_REVIEW.md
